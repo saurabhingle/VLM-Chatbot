@@ -1,0 +1,8 @@
+llm:
+  model_name: "mistral"
+  embedding_model: "sentence-transformers/all-MiniLM-L6-v2"
+  image_model: "llava"
+
+
+paths:
+  embeddings_dir: "vectorstore"
